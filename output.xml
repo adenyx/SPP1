@@ -1,17 +1,17 @@
 <threads> 
 	<thread> 
 		<threadId>15</threadId>
-		<time>19291555ns</time>
+		<time>15938928ns</time>
 		<methods>
 			<method>
 				<name>calculateBitOfNumbers</name>
 				<class>MainTask</class>
-				<time>802265ns</time>
+				<time>655630ns</time>
 				<methods>
 					<method>
-						<name>calculateSumOfFirstTwentyNumbers</name>
+						<name>calculateTwentyNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>2074ns</time>
+						<time>1499ns</time>
 						<methods></methods>
 					</method>
 				</methods>
@@ -19,12 +19,12 @@
 			<method>
 				<name>concatenateBitOfStrings</name>
 				<class>MainTask</class>
-				<time>14913084ns</time>
+				<time>12594221ns</time>
 				<methods>
 					<method>
 						<name>concatenateTwentyTimes</name>
 						<class>SimpleStringConcatenator</class>
-						<time>14226628ns</time>
+						<time>11860741ns</time>
 						<methods></methods>
 					</method>
 				</methods>
@@ -33,17 +33,17 @@
 	</thread> 
 	<thread> 
 		<threadId>16</threadId>
-		<time>201483ns</time>
+		<time>261034ns</time>
 		<methods>
 			<method>
 				<name>calculateBitOfNumbers</name>
 				<class>MainTask</class>
-				<time>16311ns</time>
+				<time>26563ns</time>
 				<methods>
 					<method>
-						<name>calculateSumOfFirstTwentyNumbers</name>
+						<name>calculateTwentyNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>583ns</time>
+						<time>901ns</time>
 						<methods></methods>
 					</method>
 				</methods>
@@ -51,12 +51,12 @@
 			<method>
 				<name>concatenateBitOfStrings</name>
 				<class>MainTask</class>
-				<time>134437ns</time>
+				<time>144406ns</time>
 				<methods>
 					<method>
 						<name>concatenateTwentyTimes</name>
 						<class>SimpleStringConcatenator</class>
-						<time>116664ns</time>
+						<time>120332ns</time>
 						<methods></methods>
 					</method>
 				</methods>
@@ -65,17 +65,17 @@
 	</thread> 
 	<thread> 
 		<threadId>17</threadId>
-		<time>224483ns</time>
+		<time>214151ns</time>
 		<methods>
 			<method>
 				<name>calculateBitOfNumbers</name>
 				<class>MainTask</class>
-				<time>34243ns</time>
+				<time>25792ns</time>
 				<methods>
 					<method>
-						<name>calculateSumOfFirstTwentyNumbers</name>
+						<name>calculateTwentyNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>871ns</time>
+						<time>872ns</time>
 						<methods></methods>
 					</method>
 				</methods>
@@ -83,12 +83,12 @@
 			<method>
 				<name>concatenateBitOfStrings</name>
 				<class>MainTask</class>
-				<time>135979ns</time>
+				<time>132382ns</time>
 				<methods>
 					<method>
 						<name>concatenateTwentyTimes</name>
 						<class>SimpleStringConcatenator</class>
-						<time>114378ns</time>
+						<time>111117ns</time>
 						<methods></methods>
 					</method>
 				</methods>
@@ -97,29 +97,29 @@
 	</thread> 
 	<thread> 
 		<threadId>18</threadId>
-		<time>6782420ns</time>
+		<time>5287845ns</time>
 		<methods>
 			<method>
 				<name>calculateManyNumbers</name>
 				<class>MainTask</class>
-				<time>6374166ns</time>
+				<time>4826104ns</time>
 				<methods>
 					<method>
-						<name>calculateSumOfFirstTwentyNumbers</name>
+						<name>calculateTwentyNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>582ns</time>
+						<time>771ns</time>
 						<methods></methods>
 					</method>,
 					<method>
-						<name>calculateSumOfFirstTwentyThousandNumbers</name>
+						<name>calculateTwentyThousandNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>198115ns</time>
+						<time>203548ns</time>
 						<methods></methods>
 					</method>,
 					<method>
-						<name>calculateSumOfFirstTwoMillionNumbers</name>
+						<name>calculateTwoMillionNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>5415853ns</time>
+						<time>3891523ns</time>
 						<methods></methods>
 					</method>
 				</methods>
@@ -127,12 +127,12 @@
 			<method>
 				<name>calculateBitOfNumbers</name>
 				<class>MainTask</class>
-				<time>15905ns</time>
+				<time>15655ns</time>
 				<methods>
 					<method>
-						<name>calculateSumOfFirstTwentyNumbers</name>
+						<name>calculateTwentyNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>532ns</time>
+						<time>616ns</time>
 						<methods></methods>
 					</method>
 				</methods>
@@ -141,29 +141,29 @@
 	</thread> 
 	<thread> 
 		<threadId>19</threadId>
-		<time>3526544ns</time>
+		<time>10494262ns</time>
 		<methods>
 			<method>
 				<name>calculateManyNumbers</name>
 				<class>MainTask</class>
-				<time>3446626ns</time>
+				<time>10401702ns</time>
 				<methods>
 					<method>
-						<name>calculateSumOfFirstTwentyNumbers</name>
+						<name>calculateTwentyNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>528ns</time>
+						<time>604ns</time>
 						<methods></methods>
 					</method>,
 					<method>
-						<name>calculateSumOfFirstTwentyThousandNumbers</name>
+						<name>calculateTwentyThousandNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>199292ns</time>
+						<time>184724ns</time>
 						<methods></methods>
 					</method>,
 					<method>
-						<name>calculateSumOfFirstTwoMillionNumbers</name>
+						<name>calculateTwoMillionNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>3170957ns</time>
+						<time>10163138ns</time>
 						<methods></methods>
 					</method>
 				</methods>
@@ -171,12 +171,12 @@
 			<method>
 				<name>calculateBitOfNumbers</name>
 				<class>MainTask</class>
-				<time>17014ns</time>
+				<time>15822ns</time>
 				<methods>
 					<method>
-						<name>calculateSumOfFirstTwentyNumbers</name>
+						<name>calculateTwentyNumbersSum</name>
 						<class>SimpleCalculator</class>
-						<time>605ns</time>
+						<time>584ns</time>
 						<methods></methods>
 					</method>
 				</methods>

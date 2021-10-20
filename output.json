@@ -2,17 +2,17 @@
 	"threads": [ 
 	{
 		"threadId": "15",
-		"time": "19291555ns",
+		"time": "15938928ns",
 		"methods": [
 		{
 				"name": "calculateBitOfNumbers",
 				"class": "MainTask",
-				"time": "802265ns",
+				"time": "655630ns",
 				"methods": [
 				{
-						"name": "calculateSumOfFirstTwentyNumbers",
+						"name": "calculateTwentyNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "2074ns",
+						"time": "1499ns",
 						"methods": []
 				}
 				]
@@ -20,12 +20,12 @@
 		{
 				"name": "concatenateBitOfStrings",
 				"class": "MainTask",
-				"time": "14913084ns",
+				"time": "12594221ns",
 				"methods": [
 				{
 						"name": "concatenateTwentyTimes",
 						"class": "SimpleStringConcatenator",
-						"time": "14226628ns",
+						"time": "11860741ns",
 						"methods": []
 				}
 				]
@@ -34,17 +34,17 @@
 	},
 	{
 		"threadId": "16",
-		"time": "201483ns",
+		"time": "261034ns",
 		"methods": [
 		{
 				"name": "calculateBitOfNumbers",
 				"class": "MainTask",
-				"time": "16311ns",
+				"time": "26563ns",
 				"methods": [
 				{
-						"name": "calculateSumOfFirstTwentyNumbers",
+						"name": "calculateTwentyNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "583ns",
+						"time": "901ns",
 						"methods": []
 				}
 				]
@@ -52,12 +52,12 @@
 		{
 				"name": "concatenateBitOfStrings",
 				"class": "MainTask",
-				"time": "134437ns",
+				"time": "144406ns",
 				"methods": [
 				{
 						"name": "concatenateTwentyTimes",
 						"class": "SimpleStringConcatenator",
-						"time": "116664ns",
+						"time": "120332ns",
 						"methods": []
 				}
 				]
@@ -66,17 +66,17 @@
 	},
 	{
 		"threadId": "17",
-		"time": "224483ns",
+		"time": "214151ns",
 		"methods": [
 		{
 				"name": "calculateBitOfNumbers",
 				"class": "MainTask",
-				"time": "34243ns",
+				"time": "25792ns",
 				"methods": [
 				{
-						"name": "calculateSumOfFirstTwentyNumbers",
+						"name": "calculateTwentyNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "871ns",
+						"time": "872ns",
 						"methods": []
 				}
 				]
@@ -84,12 +84,12 @@
 		{
 				"name": "concatenateBitOfStrings",
 				"class": "MainTask",
-				"time": "135979ns",
+				"time": "132382ns",
 				"methods": [
 				{
 						"name": "concatenateTwentyTimes",
 						"class": "SimpleStringConcatenator",
-						"time": "114378ns",
+						"time": "111117ns",
 						"methods": []
 				}
 				]
@@ -98,29 +98,29 @@
 	},
 	{
 		"threadId": "18",
-		"time": "6782420ns",
+		"time": "5287845ns",
 		"methods": [
 		{
 				"name": "calculateManyNumbers",
 				"class": "MainTask",
-				"time": "6374166ns",
+				"time": "4826104ns",
 				"methods": [
 				{
-						"name": "calculateSumOfFirstTwentyNumbers",
+						"name": "calculateTwentyNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "582ns",
+						"time": "771ns",
 						"methods": []
 				},
 				{
-						"name": "calculateSumOfFirstTwentyThousandNumbers",
+						"name": "calculateTwentyThousandNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "198115ns",
+						"time": "203548ns",
 						"methods": []
 				},
 				{
-						"name": "calculateSumOfFirstTwoMillionNumbers",
+						"name": "calculateTwoMillionNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "5415853ns",
+						"time": "3891523ns",
 						"methods": []
 				}
 				]
@@ -128,12 +128,12 @@
 		{
 				"name": "calculateBitOfNumbers",
 				"class": "MainTask",
-				"time": "15905ns",
+				"time": "15655ns",
 				"methods": [
 				{
-						"name": "calculateSumOfFirstTwentyNumbers",
+						"name": "calculateTwentyNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "532ns",
+						"time": "616ns",
 						"methods": []
 				}
 				]
@@ -142,29 +142,29 @@
 	},
 	{
 		"threadId": "19",
-		"time": "3526544ns",
+		"time": "10494262ns",
 		"methods": [
 		{
 				"name": "calculateManyNumbers",
 				"class": "MainTask",
-				"time": "3446626ns",
+				"time": "10401702ns",
 				"methods": [
 				{
-						"name": "calculateSumOfFirstTwentyNumbers",
+						"name": "calculateTwentyNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "528ns",
+						"time": "604ns",
 						"methods": []
 				},
 				{
-						"name": "calculateSumOfFirstTwentyThousandNumbers",
+						"name": "calculateTwentyThousandNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "199292ns",
+						"time": "184724ns",
 						"methods": []
 				},
 				{
-						"name": "calculateSumOfFirstTwoMillionNumbers",
+						"name": "calculateTwoMillionNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "3170957ns",
+						"time": "10163138ns",
 						"methods": []
 				}
 				]
@@ -172,12 +172,12 @@
 		{
 				"name": "calculateBitOfNumbers",
 				"class": "MainTask",
-				"time": "17014ns",
+				"time": "15822ns",
 				"methods": [
 				{
-						"name": "calculateSumOfFirstTwentyNumbers",
+						"name": "calculateTwentyNumbersSum",
 						"class": "SimpleCalculator",
-						"time": "605ns",
+						"time": "584ns",
 						"methods": []
 				}
 				]
