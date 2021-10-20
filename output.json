@@ -1,0 +1,188 @@
+{
+	"threads": [ 
+	{
+		"threadId": "15",
+		"time": "19291555ns",
+		"methods": [
+		{
+				"name": "calculateBitOfNumbers",
+				"class": "MainTask",
+				"time": "802265ns",
+				"methods": [
+				{
+						"name": "calculateSumOfFirstTwentyNumbers",
+						"class": "SimpleCalculator",
+						"time": "2074ns",
+						"methods": []
+				}
+				]
+		},
+		{
+				"name": "concatenateBitOfStrings",
+				"class": "MainTask",
+				"time": "14913084ns",
+				"methods": [
+				{
+						"name": "concatenateTwentyTimes",
+						"class": "SimpleStringConcatenator",
+						"time": "14226628ns",
+						"methods": []
+				}
+				]
+		}
+		]
+	},
+	{
+		"threadId": "16",
+		"time": "201483ns",
+		"methods": [
+		{
+				"name": "calculateBitOfNumbers",
+				"class": "MainTask",
+				"time": "16311ns",
+				"methods": [
+				{
+						"name": "calculateSumOfFirstTwentyNumbers",
+						"class": "SimpleCalculator",
+						"time": "583ns",
+						"methods": []
+				}
+				]
+		},
+		{
+				"name": "concatenateBitOfStrings",
+				"class": "MainTask",
+				"time": "134437ns",
+				"methods": [
+				{
+						"name": "concatenateTwentyTimes",
+						"class": "SimpleStringConcatenator",
+						"time": "116664ns",
+						"methods": []
+				}
+				]
+		}
+		]
+	},
+	{
+		"threadId": "17",
+		"time": "224483ns",
+		"methods": [
+		{
+				"name": "calculateBitOfNumbers",
+				"class": "MainTask",
+				"time": "34243ns",
+				"methods": [
+				{
+						"name": "calculateSumOfFirstTwentyNumbers",
+						"class": "SimpleCalculator",
+						"time": "871ns",
+						"methods": []
+				}
+				]
+		},
+		{
+				"name": "concatenateBitOfStrings",
+				"class": "MainTask",
+				"time": "135979ns",
+				"methods": [
+				{
+						"name": "concatenateTwentyTimes",
+						"class": "SimpleStringConcatenator",
+						"time": "114378ns",
+						"methods": []
+				}
+				]
+		}
+		]
+	},
+	{
+		"threadId": "18",
+		"time": "6782420ns",
+		"methods": [
+		{
+				"name": "calculateManyNumbers",
+				"class": "MainTask",
+				"time": "6374166ns",
+				"methods": [
+				{
+						"name": "calculateSumOfFirstTwentyNumbers",
+						"class": "SimpleCalculator",
+						"time": "582ns",
+						"methods": []
+				},
+				{
+						"name": "calculateSumOfFirstTwentyThousandNumbers",
+						"class": "SimpleCalculator",
+						"time": "198115ns",
+						"methods": []
+				},
+				{
+						"name": "calculateSumOfFirstTwoMillionNumbers",
+						"class": "SimpleCalculator",
+						"time": "5415853ns",
+						"methods": []
+				}
+				]
+		},
+		{
+				"name": "calculateBitOfNumbers",
+				"class": "MainTask",
+				"time": "15905ns",
+				"methods": [
+				{
+						"name": "calculateSumOfFirstTwentyNumbers",
+						"class": "SimpleCalculator",
+						"time": "532ns",
+						"methods": []
+				}
+				]
+		}
+		]
+	},
+	{
+		"threadId": "19",
+		"time": "3526544ns",
+		"methods": [
+		{
+				"name": "calculateManyNumbers",
+				"class": "MainTask",
+				"time": "3446626ns",
+				"methods": [
+				{
+						"name": "calculateSumOfFirstTwentyNumbers",
+						"class": "SimpleCalculator",
+						"time": "528ns",
+						"methods": []
+				},
+				{
+						"name": "calculateSumOfFirstTwentyThousandNumbers",
+						"class": "SimpleCalculator",
+						"time": "199292ns",
+						"methods": []
+				},
+				{
+						"name": "calculateSumOfFirstTwoMillionNumbers",
+						"class": "SimpleCalculator",
+						"time": "3170957ns",
+						"methods": []
+				}
+				]
+		},
+		{
+				"name": "calculateBitOfNumbers",
+				"class": "MainTask",
+				"time": "17014ns",
+				"methods": [
+				{
+						"name": "calculateSumOfFirstTwentyNumbers",
+						"class": "SimpleCalculator",
+						"time": "605ns",
+						"methods": []
+				}
+				]
+		}
+		]
+	}
+	]
+}
